@@ -154,22 +154,17 @@ streamlit run app.py
 ## 📷 Screenshots
 
 ### Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](sales_overview.jpeg)
 
 ### Forecast Explorer
-![Forecast Explorer](screenshots/forecast_explorer.png)
+![Forecast Explorer](forecast_explorer.jpeg)
 
 ### Anomaly Report
-![Anomaly Report](screenshots/anomaly_report.png)
+![Anomaly Report](anomaly_report.jpeg)
 
 ### Product Demand Segments
-![Product Segments](screenshots/product_demand_segments.png)
+![Product Segments](product_segments.jpeg)
 
-
-- Sales Overview
-- Forecast Explorer
-- Anomaly Report
-- Product Demand Segments
 
 ---
 
