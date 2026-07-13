@@ -153,7 +153,17 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-Screenshots will be added after deployment.
+### Sales Overview
+![Sales Overview](screenshots/sales_overview.png)
+
+### Forecast Explorer
+![Forecast Explorer](screenshots/forecast_explorer.png)
+
+### Anomaly Report
+![Anomaly Report](screenshots/anomaly_report.png)
+
+### Product Demand Segments
+![Product Segments](screenshots/product_demand_segments.png)
 
 
 - Sales Overview
